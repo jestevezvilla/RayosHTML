@@ -1,7 +1,7 @@
 {
   "appName": {
     "message": "rayosHTML",
-    "description": "The name of the application"
+    "description": "Pruebas de plugins para Chrome"
   },
   "appDescription": {
     "message": "Awesome ray-html viewer",
